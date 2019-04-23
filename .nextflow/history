@@ -1,0 +1,20 @@
+2019-04-19 12:28:47	2.8s	pensive_brown	ERR	c8f540973f64cb505322a33336a88f20	93b66898-b1f8-4921-bddf-6c69a1e5b21c	nextflow run simple_innuca.nf
+2019-04-19 12:29:03	8m 11s	serene_kimura	OK	c8f540973f64cb505322a33336a88f20	780f219e-f179-447f-bc63-d3b97a54deba	nextflow run simple_innuca.nf -profile docker
+2019-04-20 12:12:27	4.3s	disturbed_descartes	ERR	c8f540973f64cb505322a33336a88f20	115c900e-92e8-4648-ac74-8a8a83611256	nextflow run simple_innuca.nf -profile docker
+2019-04-20 12:32:47	5m 43s	mighty_sinoussi	ERR	c8f540973f64cb505322a33336a88f20	8ae86d2d-2c05-4cf3-b257-94be9870fa5e	nextflow run simple_innuca.nf -profile docker
+2019-04-20 12:42:29	6.9s	stupefied_majorana	OK	c8f540973f64cb505322a33336a88f20	8ae86d2d-2c05-4cf3-b257-94be9870fa5e	nextflow run simple_innuca.nf -profile docker -resume
+2019-04-20 12:43:49	4m 36s	backstabbing_ekeblad	ERR	c8f540973f64cb505322a33336a88f20	d72cb281-64d5-4558-b737-817422857800	nextflow run simple_innuca.nf -profile docker
+2019-04-20 13:08:12	4m 19s	jolly_fermat	ERR	c8f540973f64cb505322a33336a88f20	9f899a0c-e148-4198-9ca2-1da8ae394db9	nextflow run simple_innuca.nf -profile docker
+2019-04-20 13:56:27	8.2s	soggy_lalande	OK	c8f540973f64cb505322a33336a88f20	9f899a0c-e148-4198-9ca2-1da8ae394db9	nextflow run simple_innuca.nf -profile docker -resume
+2019-04-20 13:56:49	4m 27s	elated_kilby	ERR	c8f540973f64cb505322a33336a88f20	4a1fc08d-5948-4aa9-b998-9b2f43f0f7c7	nextflow run simple_innuca.nf -profile docker
+2019-04-20 14:10:15	4m 10s	cranky_ride	ERR	c8f540973f64cb505322a33336a88f20	111bade5-ce5f-4634-8b6e-ee6d35448d84	nextflow run simple_innuca.nf -profile docker
+2019-04-22 16:55:30	3m 44s	furious_nobel	ERR	c8f540973f64cb505322a33336a88f20	6d68a371-5109-4ce5-b095-aa38ae994853	nextflow run simple_innuca.nf -profile docker
+2019-04-22 17:11:58	3m 45s	stupefied_fermat	ERR	c8f540973f64cb505322a33336a88f20	d9c462ab-5787-4f3f-be14-1e382b42f232	nextflow run simple_innuca.nf -profile docker
+2019-04-23 11:31:25	3m 41s	grave_curran	ERR	c8f540973f64cb505322a33336a88f20	2db4b43d-9be4-444d-ab88-c7e4989c075b	nextflow run simple_innuca.nf -profile docker
+2019-04-23 11:41:30	3m 54s	crazy_lumiere	ERR	c8f540973f64cb505322a33336a88f20	6ac0b9ad-0029-418e-ad08-1504acaeb2ea	nextflow run simple_innuca.nf -profile docker
+2019-04-23 11:53:56	3m 41s	compassionate_hoover	ERR	c8f540973f64cb505322a33336a88f20	04855cde-d7b4-4ec0-98eb-e3122e359bef	nextflow run simple_innuca.nf -profile docker
+2019-04-23 13:16:43	4s	nauseous_monod	ERR	c8f540973f64cb505322a33336a88f20	3293a9f0-714a-44b0-af24-3828d3e39d46	nextflow run simple_innuca.nf -profile docker
+2019-04-23 13:18:39	18m 4s	clever_boyd	ERR	c8f540973f64cb505322a33336a88f20	172b1088-d136-46c2-bccf-664d30a72552	nextflow run simple_innuca.nf -profile docker
+2019-04-23 13:36:49	6.3s	soggy_picasso	OK	c8f540973f64cb505322a33336a88f20	172b1088-d136-46c2-bccf-664d30a72552	nextflow run simple_innuca.nf -profile docker -resume
+2019-04-23 13:37:15	22m 50s	high_laplace	ERR	c8f540973f64cb505322a33336a88f20	cca58fe0-9b92-4dbe-9f8a-b8f3df4e2e45	nextflow run simple_innuca.nf -profile docker
+2019-04-23 14:07:07	3m 38s	awesome_hamilton	ERR	c8f540973f64cb505322a33336a88f20	0dc8fe2f-e62d-4c91-b0cb-0e6e36e5df2d	nextflow run simple_innuca.nf -profile docker
